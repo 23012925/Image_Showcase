@@ -28,7 +28,7 @@ Your solution should include well-structured HTML, CSS, and JavaScript code, ens
 
 ## PROGRAM:
 
-index.html
+page.html
 
 ```
 <!DOCTYPE html>
